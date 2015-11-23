@@ -1,0 +1,64 @@
+# Header
+menu:
+  主页: /
+  所有文章(时间轴): /archives
+  IT技术: /
+  #随笔: /tags/随笔
+
+# SubNav
+subnav:
+  github: "https://github.com/easytobegin"
+  weibo: "http://weibo.com/u/3476410470"
+  #rss: "#"
+  zhihu: "http://www.zhihu.com/people/chen-yang-yang-yang"
+  #douban: "#"
+  #mail: "#"
+  #facebook: "#"
+  #google: "#"
+  twitter: "#"
+  #linkedin: "#"
+
+rss: /atom.xml
+
+# Content
+excerpt_link: more
+fancybox: true
+mathjax: true
+
+# 是否开启动画效果
+animate: true
+
+# 是否在新窗口打开链接
+open_in_new: false
+
+# Miscellaneous
+google_analytics: ''
+favicon: /favicon.png
+
+#你的头像url
+avatar: http://img5.imgtn.bdimg.com/it/u=3536670123,533725430&fm=21&gp=0.jpg
+#是否开启分享
+share: true
+#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
+#若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
+duoshuo: true
+duoshuo_shortname: minisheep
+#是否开启云标签
+tagcloud: true
+
+#是否开启友情链接
+#不开启——
+#friends: true
+#开启——
+friends:
+	my github: https://github.com/easytobegin
+	my gitcafe: https://gitcafe.com/minisheep
+	my weibo: http://weibo.com/u/3476410470
+	韩松灵的微博: http://weibo.com/u/3056977527
+	薛神堂的微博: http://weibo.com/u/5082378368
+
+#是否开启“关于我”。
+#不开启——
+#aboutme: false
+#开启——
+aboutme: 网站维护及域名持有人简介:陈扬(minisheep),弱校计算姬专业,目前大三,acm被劝退狗,目前什么都做,主要仰慕巨巨 && 欢迎来到本网站,本网站的构想主要以论坛的形式展现给大家，后期会分成好几个模块(比如摄影天地,IT技术等).如域名一样,我们将一起从0到1,easy to begin,让我们一起学习,一起开始!  
