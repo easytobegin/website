@@ -2,19 +2,22 @@
 menu:
   主页: /
   所有文章: /archives
-  #随笔: /tags/随笔
+  project: /categories/Blog/
+  acm解题报告: /categories/acm/
+  #摄影: /categories/摄影美图/
+  #美食天地: /categories/美食天地/
 
 # SubNav
 subnav:
-  github: "https://github.com/easytobegin"
-  weibo: "http://weibo.com/u/3476410470"
+  #github: "https://github.com/easytobegin"
+  #weibo: "http://weibo.com/u/3476410470"
   #rss: "#"
-  zhihu: "http://www.zhihu.com/people/chen-yang-yang-yang"
+  #zhihu: "http://www.zhihu.com/people/chen-yang-yang-yang"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
   #google: "#"
-  twitter: "https://twitter.com/chenyang1994091"
+  #twitter: "https://twitter.com/chenyang1994091"
   #linkedin: "#"
 
 rss: /atom.xml
@@ -31,11 +34,11 @@ animate: true
 open_in_new: false
 
 # Miscellaneous
-google_analytics: ''
-favicon: /favicon.png
+google_analytics: false
+favicon: my_ico/bbb.jpg
 
 #你的头像url
-avatar: my_ico\my_ico.jpg
+avatar: my_ico/my.jpg
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
