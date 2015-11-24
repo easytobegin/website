@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: minisheep的个人网站
-subtitle:
-description: 博客
+title: easytobegin
+subtitle: 本网站将定期更新各种各样各系列的Tutorial(教程),让我们将一起从0到1,easy to begin!
+description: 博客形式
 author: Minisheep
 language: Simplified Chinese
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
