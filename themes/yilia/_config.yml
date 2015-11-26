@@ -2,22 +2,24 @@
 menu:
   主页: /
   所有文章: /archives
-  project: /categories/IT/
-  acm解题报告: /categories/acm解题报告
   #摄影: /categories/摄影美图/
+  音乐与电台: /categories/音乐与电台/
   美食街区: /categories/美食-cate/
+  acm解题报告: /categories/acm解题报告
+  Project: /categories/IT/
+  我们爱讲冷笑话: /categories/冷笑话/
 
 # SubNav
 subnav:
-  github: "https://github.com/easytobegin"
-  weibo: "http://weibo.com/u/3476410470"
+  #github: "https://github.com/easytobegin"
+  #weibo: "http://weibo.com/u/3476410470"
   #rss: "#"
-  zhihu: "http://www.zhihu.com/people/chen-yang-yang-yang"
+  #zhihu: "http://www.zhihu.com/people/chen-yang-yang-yang"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
   #google: "#"
-  twitter: "https://twitter.com/chenyang1994091"
+  #twitter: "https://twitter.com/chenyang1994091"
   #linkedin: "#"
 
 rss: /atom.xml
@@ -67,4 +69,4 @@ friends:
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 网站维护及域名持有人简介:陈扬(minisheep),弱校计算姬专业,目前大三,acm被劝退狗,目前什么都做,主要仰慕巨巨 && 欢迎来到本网站,本网站的构想主要以论坛的形式展现给大家，后期会分成好几个模块(比如摄影天地,IT技术等).如域名一样,我们将一起从0到1,easy to begin,让我们一起学习,一起开始!  
+aboutme: 网站维护及域名持有人简介:陈扬(minisheep),弱校计算姬专业,目前大三,acm被劝退狗,目前什么都做,主要仰慕巨巨 && 欢迎来到本网站,本网站的构想主要以模块分类的形式展现给大家，后期会分成好几个模块(比如美食街区,我们爱听冷笑话,IT技术等).如域名一样,我们将一起从0到1,easy to begin,让我们一起学习,一起开始!  
